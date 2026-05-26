@@ -238,7 +238,7 @@ Start the server
 ## :wave: Contributing
 
 <a href="https://github.com/DagimDana/Marefiya---Find-a-perfect-home-to-match-your-needs./graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=dagim-mante/Marefiya---Find-a-perfect-home-to-match-your-needs." />
+  <img src="https://contrib.rocks/image?repo=DagimDana/Marefiya---Find-a-perfect-home-to-match-your-needs." />
 </a>
 
 
@@ -257,10 +257,10 @@ Distributed under the Apache 2.0 License. See LICENSE.txt for more information.
 ## :handshake: Contact
 
 <p>
-    <a href="https://x.com/DMantefardo">
+    <a href="https://x.com/Dagim_Dana">
         <img src="https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge" alt="Twitter" />
     </a>
-    <a href="https://www.linkedin.com/in/dagimawi-mantefardo/">
+    <a href="https://www.linkedin.com/in/dagim-dana/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn" />
     </a>
 </p>
