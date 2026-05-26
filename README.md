@@ -218,7 +218,7 @@ Create a project directory
 Clone the project
 
 ```bash
-  git clone https://github.com/dagim-mante/Marefiya---Find-a-perfect-home-to-match-your-needs..git .
+  git clone https://github.com/DagimDana/Marefiya---Find-a-perfect-home-to-match-your-needs..git .
 ```
 
 Install dependencies
