@@ -237,7 +237,7 @@ Start the server
 <!-- Contributing -->
 ## :wave: Contributing
 
-<a href="https://github.com/dagim-mante/Marefiya---Find-a-perfect-home-to-match-your-needs./graphs/contributors">
+<a href="https://github.com/DagimDana/Marefiya---Find-a-perfect-home-to-match-your-needs./graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dagim-mante/Marefiya---Find-a-perfect-home-to-match-your-needs." />
 </a>
 
